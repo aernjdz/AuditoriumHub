@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="AuditoriumHub.DataAccess.Memory/AuditoriumHub.DataAccess.Memory.csproj" Id="99436172-2632-4c73-a360-5c26d0edbd9c" />
+  <Project Path="AuditoriumHub.DataModel/AuditoriumHub.DataModel.csproj" Id="d3fbad10-68eb-47ef-a51f-6544e3281db3" />
+  <Project Path="AuditoriumHub.ServiceAbstractions/AuditoriumHub.ServiceAbstractions.csproj" Id="4cba4672-c076-43e6-af93-d34cc2930282" />
+  <Project Path="AuditoriumHub.Services.Memory/AuditoriumHub.Services.Memory.csproj" Id="f3ecbdbe-c6b6-4297-ae19-9619b49fc9ea" />
+  <Project Path="AuditoriumHub/AuditoriumHub.csproj" />
+</Solution>

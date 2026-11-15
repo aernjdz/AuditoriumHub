@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AuditoriumHub.DataAccess.Memory\AuditoriumHub.DataAccess.Memory.csproj" />
+    <ProjectReference Include="..\AuditoriumHub.DataModel\AuditoriumHub.DataModel.csproj" />
+    <ProjectReference Include="..\AuditoriumHub.ServiceAbstractions\AuditoriumHub.ServiceAbstractions.csproj" />
+    <ProjectReference Include="..\AuditoriumHub.Services.Memory\AuditoriumHub.Services.Memory.csproj" />
+  </ItemGroup>
+
+</Project>
